@@ -60,7 +60,7 @@ This project combines statistical analysis, machine learning, and time series fo
 1. Clone this repository:
 
 ```shellscript
-git clone https://github.com/smangukia/Mortality-Rate-Analysis.git
+git clone https://github.com/shraymoza/Mortality-Rate-Analysis.git
 cd Mortality-Rate-Analysis
 ```
 
